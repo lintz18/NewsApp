@@ -1,18 +1,18 @@
 <resources>
     <string name="app_name">MVVMNewsApp</string>
-    <string name="title_breaking_news">Breaking News</string>
-    <string name="title_search_news">Search News</string>
-    <string name="title_bookmarks">Bookmarks</string>
-    <string name="breaking">Breaking</string>
-    <string name="search">Search</string>
-    <string name="bookmarks">Bookmarks</string>
-    <string name="could_not_refresh">Could not refresh: %s</string>
-    <string name="could_not_load_search_results">Could not load search results: %s</string>
-    <string name="unknown_error_occurred">An unknown error occurred</string>
-    <string name="retry">Retry</string>
-    <string name="refresh">Refresh</string>
-    <string name="no_bookmarks">No bookmarks</string>
-    <string name="no_results_found">No results found</string>
-    <string name="search_instructions">Tap the magnifying glass to start searching</string>
-    <string name="delete_all_bookmarks">Delete all bookmarks</string>
+    <string name="title_breaking_news">Noticias de última hora</string>
+    <string name="title_search_news">Buscar noticias</string>
+    <string name="title_bookmarks">Marcadores</string>
+    <string name="breaking">Última hora</string>
+    <string name="search">Búsqueda</string>
+    <string name="bookmarks">Marcadores</string>
+    <string name="could_not_refresh">No se ha podido actualizar: %s</string>
+    <string name="could_not_load_search_results">No se pueden cargar la búsqueda: %s</string>
+    <string name="unknown_error_occurred">Error desconocido</string>
+    <string name="retry">Reintenar</string>
+    <string name="refresh">Actualizar</string>
+    <string name="no_bookmarks">No hay marcadores</string>
+    <string name="no_results_found">No se han encontrado resultados</string>
+    <string name="search_instructions">Toca la lupa para empezar a buscar</string>
+    <string name="delete_all_bookmarks">Eliminar todos los marcadores</string>
 </resources>
